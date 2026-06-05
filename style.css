@@ -1,0 +1,132 @@
+.bg{
+    background-color: darkcyan;
+    color: white;
+    padding: 5px 20px 15px 20px;
+}
+.headings{
+    display: flex;
+    gap: 100px;
+    justify-content: space-between;
+}
+.link{
+    display: flex;
+    gap: 15px;
+}
+.text{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+.subtext{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.image{
+    width: 400px;
+    height: 200px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.info{
+    background-color: white;
+    color: black;
+    padding: 10px 30px 15px 30px;
+}
+.tt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.fi{
+    display: flex;
+    flex-direction: column;
+}
+.se{
+    display: flex;
+    flex-direction: column;
+}
+.th{
+    display: flex;
+    flex-direction: column;
+}
+.fo{
+    display: flex;
+    flex-direction: column;
+}
+.first{
+    width: 200px;
+    height: 150px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+.second{
+    width: 200px;
+    height: 150px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+.third{
+    width: 200px;
+    height: 150px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+.fourth{
+    width: 200px;
+    height: 150px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+h6{
+    margin: 0;
+}
+.bth{
+    background-color: gray;
+    color: black;
+    display: flex;
+    padding: 15px 25px 15px 25px;
+}
+.bb{
+    align-items: center;
+}
+.cc{
+    text-align: right;
+    font-weight: 700;
+}
+.last{
+    background-color: white;
+}
+.thing{
+    background-color: blue;
+    padding: 20px 30px 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
